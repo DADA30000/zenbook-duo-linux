@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Default backlight (0-3)
-DEFAULT_BACKLIGHT=1
+DEFAULT_BACKLIGHT=3
 
 # Default scale (1-2)
 DEFAULT_SCALE=1
